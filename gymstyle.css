@@ -1,0 +1,59 @@
+input[type="file"] {
+    position: absolute;
+    border-radius: 10px;
+    width: 10px;
+    height: 5px;
+    padding: 0;
+    margin-left: 20px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+    text-align:center;
+}
+.custom-file-upload {
+    margin-left: 100px;
+    text-align:center;
+    border-radius: 2px;
+    border: 1px solid #ae32ce;
+    color: #bd7dcd;
+    background-color: white;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.head1{
+    margin-top: -50px;
+    text-align:center;
+    font-size: 30px;
+    color: red;
+}
+
+.head2{
+    
+    text-align: center;
+    font-size: 20px;
+    color: rgb(252, 164, 0);
+}
+
+.head3{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(253, 253, 78);
+}
+
+.head4{
+    text-align: center;
+    font-size: 20px;
+    color: green;
+}
+
+#wow{
+    position: relative;
+}
+
+#wow{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
